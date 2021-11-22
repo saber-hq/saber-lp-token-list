@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-11-22T18:16:48.919Z",
+  "timestamp": "2021-11-22T18:26:41.645Z",
   "tokens": [
     {
       "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (9 decimals)",
+      "name": "Saber Wrapped Bitcoin (Sollet) (9 decimals)",
       "address": "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H",
       "decimals": 9,
       "symbol": "sBTC-9",
@@ -234,7 +234,7 @@
       }
     },
     {
-      "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (8 decimals)",
+      "name": "Saber Wrapped Bitcoin (Sollet) (8 decimals)",
       "address": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
       "decimals": 8,
       "symbol": "sBTC-8",
@@ -256,7 +256,7 @@
       }
     },
     {
-      "name": "Saber Wrapped Wrapped Ethereum (Sollet) (8 decimals)",
+      "name": "Saber Wrapped Ethereum (Sollet) (8 decimals)",
       "address": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
       "decimals": 8,
       "symbol": "sETH-8",

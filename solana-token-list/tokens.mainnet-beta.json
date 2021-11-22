@@ -32,7 +32,7 @@
     }
   },
   {
-    "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (9 decimals)",
+    "name": "Saber Wrapped Bitcoin (Sollet) (9 decimals)",
     "address": "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H",
     "decimals": 9,
     "symbol": "sBTC-9",
@@ -813,7 +813,7 @@
     }
   },
   {
-    "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (8 decimals)",
+    "name": "Saber Wrapped Bitcoin (Sollet) (8 decimals)",
     "address": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
     "decimals": 8,
     "symbol": "sBTC-8",
@@ -831,7 +831,7 @@
     }
   },
   {
-    "name": "Saber Wrapped Wrapped Ethereum (Sollet) (8 decimals)",
+    "name": "Saber Wrapped Ethereum (Sollet) (8 decimals)",
     "address": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
     "decimals": 8,
     "symbol": "sETH-8",
