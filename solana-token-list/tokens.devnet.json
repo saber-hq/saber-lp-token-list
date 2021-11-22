@@ -8,10 +8,9 @@
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs/icon.png",
     "tags": [
       "saber-market-btc",
-      "saber-decimal-wrapped"
+      "saber-dec-wrapped"
     ],
     "extensions": {
-      "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
       "website": "https://app.saber.so"
     }
   },
