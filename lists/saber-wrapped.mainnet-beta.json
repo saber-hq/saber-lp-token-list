@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-11-22T17:48:39.121Z",
+  "timestamp": "2021-11-22T18:06:45.485Z",
   "tokens": [
     {
       "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -22,112 +22,8 @@
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (8 decimals)",
-      "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "decimals": 8,
-      "symbol": "sUSDC-8",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (8 decimals)",
-      "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "decimals": 8,
-      "symbol": "sUSDC-8",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (8 decimals)",
-      "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "decimals": 8,
-      "symbol": "sUSDC-8",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (8 decimals)",
-      "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "decimals": 8,
-      "symbol": "sUSDC-8",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (8 decimals)",
-      "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-      "decimals": 8,
-      "symbol": "sUSDC-8",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
+        "currency": "USD",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -149,7 +45,8 @@
         "underlyingTokens": [
           "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
         ],
-        "currency": "BTC"
+        "currency": "BTC",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -170,28 +67,8 @@
         "underlyingTokens": [
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USDT (9 decimals)",
-      "address": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
-      "decimals": 9,
-      "symbol": "sUSDT-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "coingeckoId": "tether",
-        "underlyingTokens": [
-          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ],
-        "currency": "USD"
+        "currency": "USD",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -211,7 +88,8 @@
         "underlyingTokens": [
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
         ],
-        "currency": "BTC"
+        "currency": "BTC",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -232,7 +110,8 @@
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "currency": "USD"
+        "currency": "USD",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -252,67 +131,8 @@
         "underlyingTokens": [
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
         ],
-        "currency": "BTC"
-      }
-    },
-    {
-      "name": "Saber Wrapped renBTC (9 decimals)",
-      "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
-      "decimals": 9,
-      "symbol": "srenBTC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5/icon.png",
-      "tags": [
-        "saber-market-btc",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-        "coingeckoId": "renbtc",
-        "underlyingTokens": [
-          "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
-        ],
-        "currency": "BTC"
-      }
-    },
-    {
-      "name": "Saber Wrapped renBTC (9 decimals)",
-      "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
-      "decimals": 9,
-      "symbol": "srenBTC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5/icon.png",
-      "tags": [
-        "saber-market-btc",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-        "coingeckoId": "renbtc",
-        "underlyingTokens": [
-          "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
-        ],
-        "currency": "BTC"
-      }
-    },
-    {
-      "name": "Saber Wrapped renBTC (9 decimals)",
-      "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
-      "decimals": 9,
-      "symbol": "srenBTC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5/icon.png",
-      "tags": [
-        "saber-market-btc",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-        "coingeckoId": "renbtc",
-        "underlyingTokens": [
-          "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
-        ],
-        "currency": "BTC"
+        "currency": "BTC",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -333,7 +153,8 @@
         "underlyingTokens": [
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
-        "currency": "FTT"
+        "currency": "FTT",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -355,7 +176,8 @@
         "underlyingTokens": [
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
-        "currency": "FTT"
+        "currency": "FTT",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -376,280 +198,8 @@
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
-      }
-    },
-    {
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-      "decimals": 9,
-      "symbol": "sUSDC-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "tags": [
-        "stablecoin",
-        "saber-market-usd",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "coingeckoId": "usd-coin",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "currency": "USD"
+        "currency": "USD",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -670,28 +220,8 @@
         "underlyingTokens": [
           "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
         ],
-        "currency": "ETH"
-      }
-    },
-    {
-      "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
-      "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
-      "decimals": 9,
-      "symbol": "swhETH-9",
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma/icon.png",
-      "tags": [
-        "saber-market-eth",
-        "wormhole-v2",
-        "saber-decimal-wrapped"
-      ],
-      "extensions": {
-        "assetContract": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
-        "coingeckoId": "ethereum",
-        "underlyingTokens": [
-          "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
-        ],
-        "currency": "ETH"
+        "currency": "ETH",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -710,7 +240,8 @@
         "underlyingTokens": [
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
         ],
-        "currency": "LUNA"
+        "currency": "LUNA",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -732,7 +263,8 @@
         "underlyingTokens": [
           "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
         ],
-        "currency": "BTC"
+        "currency": "BTC",
+        "website": "https://app.saber.so"
       }
     },
     {
@@ -754,7 +286,8 @@
         "underlyingTokens": [
           "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"
         ],
-        "currency": "ETH"
+        "currency": "ETH",
+        "website": "https://app.saber.so"
       }
     }
   ]

@@ -11,7 +11,8 @@
       "saber-decimal-wrapped"
     ],
     "extensions": {
-      "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
+      "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
+      "website": "https://app.saber.so"
     }
   },
   {
