@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-11-22T19:11:17.219Z",
+  "timestamp": "2021-11-22T23:01:07.363Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -317,6 +317,8 @@
       "chainId": 101,
       "tags": [
         "saber-stableswap-lp",
+        "saber-lp-cashio",
+        "saber-stableswap-lp",
         "saber-lp-cashio"
       ],
       "extensions": {
@@ -357,6 +359,8 @@
       "chainId": 101,
       "tags": [
         "saber-stableswap-lp",
+        "saber-lp-cashio",
+        "saber-stableswap-lp",
         "saber-lp-cashio"
       ],
       "extensions": {
@@ -376,6 +380,8 @@
       "address": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
       "chainId": 101,
       "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-cashio",
         "saber-stableswap-lp",
         "saber-lp-cashio"
       ],

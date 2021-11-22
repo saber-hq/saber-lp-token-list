@@ -327,6 +327,8 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
+      "saber-lp-cashio",
+      "saber-stableswap-lp",
       "saber-lp-cashio"
     ],
     "extensions": {
@@ -357,6 +359,8 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
+      "saber-lp-cashio",
+      "saber-stableswap-lp",
       "saber-lp-cashio"
     ],
     "extensions": {
@@ -371,6 +375,8 @@
     "address": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
     "chainId": 101,
     "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-cashio",
       "saber-stableswap-lp",
       "saber-lp-cashio"
     ],
