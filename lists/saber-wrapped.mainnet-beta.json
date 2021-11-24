@@ -2,6 +2,344 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-11-24T00:29:39.747Z",
-  "tokens": []
+  "timestamp": "2021-11-24T00:40:01.300Z",
+  "tokens": [
+    {
+      "name": "Saber Wrapped USD Coin (8 decimals)",
+      "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+      "decimals": 8,
+      "symbol": "sUSDC-8",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy/icon.png",
+      "tags": [
+        "stablecoin",
+        "saber-market-usd",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://app.saber.so",
+        "currency": "USD",
+        "underlyingTokens": [
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped Bitcoin (Sollet) (9 decimals)",
+      "address": "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H",
+      "decimals": 9,
+      "symbol": "sBTC-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H/icon.png",
+      "tags": [
+        "wrapped-sollet",
+        "ethereum",
+        "saber-market-btc",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "bitcoin",
+        "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
+        "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
+        "currency": "BTC",
+        "website": "https://app.saber.so",
+        "underlyingTokens": [
+          "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped USDT (9 decimals)",
+      "address": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
+      "decimals": 9,
+      "symbol": "sUSDT-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV/icon.png",
+      "tags": [
+        "stablecoin",
+        "saber-market-usd",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "tether",
+        "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://app.saber.so",
+        "currency": "USD",
+        "underlyingTokens": [
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped renBTC (10 decimals)",
+      "address": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
+      "decimals": 10,
+      "symbol": "srenBTC-10",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi/icon.png",
+      "tags": [
+        "saber-market-btc",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "renbtc",
+        "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+        "website": "https://app.saber.so",
+        "currency": "BTC",
+        "source": "renbridge",
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "underlyingTokens": [
+          "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped Cashio Dollar (9 decimals)",
+      "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
+      "decimals": 9,
+      "symbol": "sCASH-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi/icon.png",
+      "tags": [
+        "stablecoin",
+        "saber-market-usd",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so",
+        "twitter": "https://twitter.com/CashioApp",
+        "coingeckoId": "usd-coin",
+        "source": "cashio",
+        "sourceUrl": "https://cashio.app/#/print",
+        "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "medium": "https://medium.com/@cashioapp",
+        "currency": "USD",
+        "underlyingTokens": [
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped renBTC (9 decimals)",
+      "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
+      "decimals": 9,
+      "symbol": "srenBTC-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5/icon.png",
+      "tags": [
+        "saber-market-btc",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "renbtc",
+        "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+        "website": "https://app.saber.so",
+        "currency": "BTC",
+        "source": "renbridge",
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "underlyingTokens": [
+          "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
+      "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
+      "decimals": 9,
+      "symbol": "sweFTX Token-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx/icon.png",
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "saber-market-ftt",
+        "wormhole-v2",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "ftx-token",
+        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "currency": "FTT",
+        "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "website": "https://app.saber.so",
+        "underlyingTokens": [
+          "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped Wrapped FTT (Sollet) (9 decimals)",
+      "address": "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
+      "decimals": 9,
+      "symbol": "sFTT-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt/icon.png",
+      "tags": [
+        "wrapped-sollet",
+        "ethereum",
+        "saber-market-ftt",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "ftx-token",
+        "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
+        "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
+        "currency": "FTT",
+        "website": "https://app.saber.so",
+        "underlyingTokens": [
+          "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped USD Coin (9 decimals)",
+      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+      "decimals": 9,
+      "symbol": "sUSDC-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
+      "tags": [
+        "stablecoin",
+        "saber-market-usd",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://app.saber.so",
+        "currency": "USD",
+        "underlyingTokens": [
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
+      "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
+      "decimals": 9,
+      "symbol": "sweWETH-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma/icon.png",
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "saber-market-eth",
+        "wormhole-v2",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "weth",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "currency": "ETH",
+        "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "website": "https://app.saber.so",
+        "underlyingTokens": [
+          "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped renLUNA (9 decimals)",
+      "address": "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT",
+      "decimals": 9,
+      "symbol": "srenLUNA-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT/icon.png",
+      "tags": [
+        "saber-market-luna",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+        "website": "https://app.saber.so",
+        "currency": "LUNA",
+        "source": "renbridge",
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "underlyingTokens": [
+          "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped Bitcoin (Sollet) (8 decimals)",
+      "address": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
+      "decimals": 8,
+      "symbol": "sBTC-8",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv/icon.png",
+      "tags": [
+        "wrapped-sollet",
+        "ethereum",
+        "saber-market-btc",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "bitcoin",
+        "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
+        "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
+        "currency": "BTC",
+        "website": "https://app.saber.so",
+        "underlyingTokens": [
+          "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped Ethereum (Sollet) (8 decimals)",
+      "address": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
+      "decimals": 8,
+      "symbol": "sETH-8",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj/icon.png",
+      "tags": [
+        "wrapped-sollet",
+        "ethereum",
+        "saber-market-eth",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "ethereum",
+        "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
+        "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
+        "currency": "ETH",
+        "website": "https://app.saber.so",
+        "underlyingTokens": [
+          "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped USDT (8 decimals)",
+      "address": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
+      "decimals": 8,
+      "symbol": "sUSDT-8",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw/icon.png",
+      "tags": [
+        "stablecoin",
+        "saber-market-usd",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "coingeckoId": "tether",
+        "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://app.saber.so",
+        "currency": "USD",
+        "underlyingTokens": [
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ]
+      }
+    }
+  ]
 }
