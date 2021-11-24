@@ -1,20 +1,5 @@
 [
   {
-    "name": "Saber Wrapped Test WBTC (8 decimals)",
-    "address": "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
-    "decimals": 8,
-    "symbol": "sWBTC-8",
-    "chainId": 103,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs/icon.png",
-    "tags": [
-      "saber-market-btc",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so"
-    }
-  },
-  {
     "symbol": "TEST-USDC",
     "name": "Saber TEST-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo/icon.png",

@@ -7,46 +7,10 @@
     "address": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/usdc_usdt"
-    }
-  },
-  {
-    "name": "Saber Wrapped USD Coin (8 decimals)",
-    "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-    "decimals": 8,
-    "symbol": "sUSDC-8",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy/icon.png",
-    "tags": [
-      "stablecoin",
-      "saber-market-usd",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "usd-coin",
-      "website": "https://app.saber.so"
-    }
-  },
-  {
-    "name": "Saber Wrapped Bitcoin (Sollet) (9 decimals)",
-    "address": "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H",
-    "decimals": 9,
-    "symbol": "sBTC-9",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H/icon.png",
-    "tags": [
-      "wrapped-sollet",
-      "ethereum",
-      "saber-market-btc",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "bitcoin",
-      "website": "https://app.saber.so"
     }
   },
   {
@@ -57,8 +21,6 @@
     "address": "AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge",
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
@@ -75,29 +37,10 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-allbridge",
-      "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/aeeth"
-    }
-  },
-  {
-    "name": "Saber Wrapped USDT (9 decimals)",
-    "address": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
-    "decimals": 9,
-    "symbol": "sUSDT-9",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV/icon.png",
-    "tags": [
-      "stablecoin",
-      "saber-market-usd",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "tether",
-      "website": "https://app.saber.so"
     }
   },
   {
@@ -108,11 +51,70 @@
     "address": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/asol"
+    }
+  },
+  {
+    "symbol": "abUSDC-USDC",
+    "name": "Saber abUSDC-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P/icon.png",
+    "decimals": 9,
+    "address": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/abusdc"
+    }
+  },
+  {
+    "symbol": "abUSDT-USDT",
+    "name": "Saber abUSDT-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ/icon.png",
+    "decimals": 9,
+    "address": "ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/abusdt"
+    }
+  },
+  {
+    "symbol": "abBTCB-renBTC",
+    "name": "Saber abBTCB-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo/icon.png",
+    "decimals": 9,
+    "address": "ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/abbtcb"
+    }
+  },
+  {
+    "symbol": "abETH-whETH",
+    "name": "Saber abETH-whETH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP/icon.png",
+    "decimals": 9,
+    "address": "ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/abeth"
     }
   },
   {
@@ -123,8 +125,6 @@
     "address": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge",
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
@@ -141,8 +141,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-allbridge",
-      "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
@@ -157,8 +155,6 @@
     "address": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge",
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
@@ -175,8 +171,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-allbridge",
-      "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
@@ -191,8 +185,6 @@
     "address": "AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge",
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
@@ -209,8 +201,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
@@ -225,8 +215,6 @@
     "address": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
@@ -243,8 +231,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
@@ -259,8 +245,6 @@
     "address": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
@@ -277,45 +261,10 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-allbridge",
-      "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/abbusd"
-    }
-  },
-  {
-    "name": "Saber Wrapped renBTC (10 decimals)",
-    "address": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
-    "decimals": 10,
-    "symbol": "srenBTC-10",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi/icon.png",
-    "tags": [
-      "saber-market-btc",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "renbtc",
-      "website": "https://app.saber.so"
-    }
-  },
-  {
-    "name": "Saber Wrapped CASH (9 decimals)",
-    "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
-    "decimals": 9,
-    "symbol": "sCASH-9",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi/icon.png",
-    "tags": [
-      "stablecoin",
-      "saber-market-usd",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "usd-coin",
-      "website": "https://app.saber.so"
     }
   },
   {
@@ -326,8 +275,6 @@
     "address": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-cashio",
       "saber-stableswap-lp",
       "saber-lp-cashio"
     ],
@@ -343,7 +290,6 @@
     "address": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
@@ -358,8 +304,6 @@
     "address": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-cashio",
       "saber-stableswap-lp",
       "saber-lp-cashio"
     ],
@@ -376,8 +320,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-cashio",
-      "saber-stableswap-lp",
       "saber-lp-cashio"
     ],
     "extensions": {
@@ -392,8 +334,6 @@
     "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
@@ -410,28 +350,10 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/dai"
-    }
-  },
-  {
-    "name": "Saber Wrapped renBTC (9 decimals)",
-    "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
-    "decimals": 9,
-    "symbol": "srenBTC-9",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5/icon.png",
-    "tags": [
-      "saber-market-btc",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "renbtc",
-      "website": "https://app.saber.so"
     }
   },
   {
@@ -442,8 +364,6 @@
     "address": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
@@ -460,47 +380,10 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/wfrax"
-    }
-  },
-  {
-    "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
-    "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
-    "decimals": 9,
-    "symbol": "swFTT-9",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx/icon.png",
-    "tags": [
-      "saber-market-ftt",
-      "wormhole-v2",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "ftx-token",
-      "website": "https://app.saber.so"
-    }
-  },
-  {
-    "name": "Saber Wrapped Wrapped FTT (Sollet) (9 decimals)",
-    "address": "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
-    "decimals": 9,
-    "symbol": "sFTT-9",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt/icon.png",
-    "tags": [
-      "wrapped-sollet",
-      "ethereum",
-      "saber-market-ftt",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "ftx-token",
-      "website": "https://app.saber.so"
     }
   },
   {
@@ -511,8 +394,6 @@
     "address": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
@@ -529,8 +410,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
@@ -545,8 +424,6 @@
     "address": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge",
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
@@ -563,8 +440,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
@@ -579,8 +454,6 @@
     "address": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge",
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
@@ -597,8 +470,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-allbridge",
-      "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
@@ -613,8 +484,6 @@
     "address": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
@@ -631,61 +500,10 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/whusd"
-    }
-  },
-  {
-    "name": "Saber Wrapped USD Coin (9 decimals)",
-    "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-    "decimals": 9,
-    "symbol": "sUSDC-9",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-    "tags": [
-      "stablecoin",
-      "saber-market-usd",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "usd-coin",
-      "website": "https://app.saber.so"
-    }
-  },
-  {
-    "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
-    "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
-    "decimals": 9,
-    "symbol": "swhETH-9",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma/icon.png",
-    "tags": [
-      "saber-market-eth",
-      "wormhole-v2",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "ethereum",
-      "website": "https://app.saber.so"
-    }
-  },
-  {
-    "name": "Saber Wrapped renLUNA (9 decimals)",
-    "address": "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT",
-    "decimals": 9,
-    "symbol": "srenLUNA-9",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT/icon.png",
-    "tags": [
-      "saber-market-luna",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so"
     }
   },
   {
@@ -696,8 +514,6 @@
     "address": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
@@ -714,8 +530,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
@@ -730,8 +544,6 @@
     "address": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge",
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
@@ -748,8 +560,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-allbridge",
-      "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
@@ -764,7 +574,6 @@
     "address": "PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
@@ -779,7 +588,6 @@
     "address": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
@@ -795,8 +603,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-port",
-      "saber-stableswap-lp",
       "saber-lp-port"
     ],
     "extensions": {
@@ -811,47 +617,10 @@
     "address": "PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/prtsol"
-    }
-  },
-  {
-    "name": "Saber Wrapped Bitcoin (Sollet) (8 decimals)",
-    "address": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
-    "decimals": 8,
-    "symbol": "sBTC-8",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv/icon.png",
-    "tags": [
-      "wrapped-sollet",
-      "ethereum",
-      "saber-market-btc",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "bitcoin",
-      "website": "https://app.saber.so"
-    }
-  },
-  {
-    "name": "Saber Wrapped Ethereum (Sollet) (8 decimals)",
-    "address": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
-    "decimals": 8,
-    "symbol": "sETH-8",
-    "chainId": 101,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj/icon.png",
-    "tags": [
-      "wrapped-sollet",
-      "ethereum",
-      "saber-market-eth",
-      "saber-dec-wrapped"
-    ],
-    "extensions": {
-      "coingeckoId": "ethereum",
-      "website": "https://app.saber.so"
     }
   },
   {
@@ -862,7 +631,6 @@
     "address": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
@@ -878,8 +646,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
@@ -894,7 +660,6 @@
     "address": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
@@ -909,7 +674,6 @@
     "address": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
@@ -924,8 +688,6 @@
     "address": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
@@ -942,8 +704,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
@@ -958,8 +718,6 @@
     "address": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
@@ -976,8 +734,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
@@ -992,8 +748,6 @@
     "address": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
@@ -1010,12 +764,55 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/wpusdt"
+    }
+  },
+  {
+    "symbol": "wbUSDT-USDT",
+    "name": "Saber wbUSDT-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv/icon.png",
+    "decimals": 8,
+    "address": "WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/wbusdt"
+    }
+  },
+  {
+    "symbol": "wbBUSD-USDC",
+    "name": "Saber wbBUSD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS/icon.png",
+    "decimals": 8,
+    "address": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/wbusd"
+    }
+  },
+  {
+    "symbol": "wbUSDC-USDC",
+    "name": "Saber wbUSDC-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs/icon.png",
+    "decimals": 8,
+    "address": "WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/wbusdc"
     }
   },
   {
@@ -1026,8 +823,6 @@
     "address": "WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
@@ -1044,8 +839,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v2",
-      "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
@@ -1060,8 +853,6 @@
     "address": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-synthetify",
       "saber-stableswap-lp",
       "saber-lp-synthetify"
     ],
@@ -1078,8 +869,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-allbridge",
-      "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
@@ -1094,8 +883,6 @@
     "address": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge",
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
@@ -1112,8 +899,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-allbridge",
-      "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
@@ -1128,7 +913,6 @@
     "address": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
@@ -1143,7 +927,6 @@
     "address": "stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
       "saber-stableswap-lp"
     ],
     "extensions": {
@@ -1158,8 +941,6 @@
     "address": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1",
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
@@ -1176,8 +957,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-synthetify",
-      "saber-stableswap-lp",
       "saber-lp-synthetify"
     ],
     "extensions": {
@@ -1192,8 +971,6 @@
     "address": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-synthetify",
       "saber-stableswap-lp",
       "saber-lp-synthetify"
     ],
@@ -1210,8 +987,6 @@
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-synthetify",
-      "saber-stableswap-lp",
       "saber-lp-synthetify"
     ],
     "extensions": {
@@ -1226,8 +1001,6 @@
     "address": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-synthetify",
       "saber-stableswap-lp",
       "saber-lp-synthetify"
     ],
