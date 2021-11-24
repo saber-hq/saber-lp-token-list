@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-11-24T00:07:24.689Z",
+  "timestamp": "2021-11-24T00:29:39.747Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -44,8 +44,8 @@
       }
     },
     {
-      "symbol": "whETH-aeWETH",
-      "name": "Saber whETH-aeWETH LP",
+      "symbol": "weWETH-aeWETH",
+      "name": "Saber weWETH-aeWETH LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR/icon.png",
       "decimals": 9,
       "address": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR",
@@ -143,8 +143,8 @@
       }
     },
     {
-      "symbol": "abETH-whETH",
-      "name": "Saber abETH-whETH LP",
+      "symbol": "abETH-weWETH",
+      "name": "Saber abETH-weWETH LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP/icon.png",
       "decimals": 9,
       "address": "ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP",
@@ -422,8 +422,8 @@
       }
     },
     {
-      "symbol": "wUST-CASH",
-      "name": "Saber wUST-CASH LP",
+      "symbol": "wtUST-CASH",
+      "name": "Saber wtUST-CASH LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8/icon.png",
       "decimals": 6,
       "address": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
@@ -442,8 +442,8 @@
       }
     },
     {
-      "symbol": "wDAI-USDC",
-      "name": "Saber wDAI-USDC LP",
+      "symbol": "weDAI-USDC",
+      "name": "Saber weDAI-USDC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3/icon.png",
       "decimals": 8,
       "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
@@ -502,8 +502,8 @@
       }
     },
     {
-      "symbol": "wFRAX-USDC",
-      "name": "Saber wFRAX-USDC LP",
+      "symbol": "weFRAX-USDC",
+      "name": "Saber weFRAX-USDC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x/icon.png",
       "decimals": 8,
       "address": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
@@ -542,8 +542,8 @@
       }
     },
     {
-      "symbol": "aeFTT-wFTT",
-      "name": "Saber aeFTT-wFTT LP",
+      "symbol": "aeFTT-weFTX Token",
+      "name": "Saber aeFTT-weFTX Token LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK/icon.png",
       "decimals": 9,
       "address": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
@@ -662,8 +662,8 @@
       }
     },
     {
-      "symbol": "wHUSD-USDC",
-      "name": "Saber wHUSD-USDC LP",
+      "symbol": "weHUSD-USDC",
+      "name": "Saber weHUSD-USDC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz/icon.png",
       "decimals": 8,
       "address": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
@@ -682,8 +682,8 @@
       }
     },
     {
-      "symbol": "wLUNA-renLUNA",
-      "name": "Saber wLUNA-renLUNA LP",
+      "symbol": "wtLUNA-renLUNA",
+      "name": "Saber wtLUNA-renLUNA LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU/icon.png",
       "decimals": 6,
       "address": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
@@ -800,8 +800,8 @@
       }
     },
     {
-      "symbol": "pUSDT-pUSDC",
-      "name": "Saber pUSDT-pUSDC LP",
+      "symbol": "USDT-USDC",
+      "name": "Saber USDT-USDC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en/icon.png",
       "decimals": 6,
       "address": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
@@ -936,8 +936,8 @@
       }
     },
     {
-      "symbol": "wUSDK-USDC",
-      "name": "Saber wUSDK-USDC LP",
+      "symbol": "weUSDK-USDC",
+      "name": "Saber weUSDK-USDC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz/icon.png",
       "decimals": 8,
       "address": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
@@ -996,8 +996,8 @@
       }
     },
     {
-      "symbol": "wUST-USDC",
-      "name": "Saber wUST-USDC LP",
+      "symbol": "wtUST-USDC",
+      "name": "Saber wtUST-USDC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi/icon.png",
       "decimals": 6,
       "address": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
@@ -1116,8 +1116,8 @@
       }
     },
     {
-      "symbol": "ETH-whETH",
-      "name": "Saber ETH-whETH LP",
+      "symbol": "ETH-weWETH",
+      "name": "Saber ETH-weWETH LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA/icon.png",
       "decimals": 8,
       "address": "WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA",
@@ -1294,8 +1294,8 @@
       }
     },
     {
-      "symbol": "xETH-whETH",
-      "name": "Saber xETH-whETH LP",
+      "symbol": "xETH-weWETH",
+      "name": "Saber xETH-weWETH LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY/icon.png",
       "decimals": 9,
       "address": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
@@ -1314,8 +1314,8 @@
       }
     },
     {
-      "symbol": "xFTT-wFTT",
-      "name": "Saber xFTT-wFTT LP",
+      "symbol": "xFTT-weFTX Token",
+      "name": "Saber xFTT-weFTX Token LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA/icon.png",
       "decimals": 8,
       "address": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
