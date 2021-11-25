@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (devnet)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-11-24T00:40:01.300Z",
+  "timestamp": "2021-11-25T00:07:11.193Z",
   "tokens": [
     {
       "name": "Saber Wrapped Test WBTC (8 decimals)",
@@ -12,10 +12,11 @@
       "chainId": 103,
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs/icon.png",
       "tags": [
-        "saber-market-btc",
+        "saber-mkt-btc",
         "saber-dec-wrapped"
       ],
       "extensions": {
+        "currency": "BTC",
         "website": "https://app.saber.so",
         "underlyingTokens": [
           "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"

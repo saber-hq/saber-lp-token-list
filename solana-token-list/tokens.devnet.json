@@ -7,7 +7,7 @@
     "chainId": 103,
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs/icon.png",
     "tags": [
-      "saber-market-btc",
+      "saber-mkt-btc",
       "saber-dec-wrapped"
     ],
     "extensions": {
