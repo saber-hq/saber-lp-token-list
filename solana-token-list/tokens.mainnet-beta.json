@@ -1049,6 +1049,51 @@
     }
   },
   {
+    "symbol": "weSRM-SRM",
+    "name": "Saber weSRM-SRM LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE/icon.png",
+    "decimals": 6,
+    "address": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/wsrm"
+    }
+  },
+  {
+    "symbol": "wibBTC-renBTC",
+    "name": "Saber wibBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx/icon.png",
+    "decimals": 8,
+    "address": "WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/wibbtc"
+    }
+  },
+  {
+    "symbol": "weHBTC-renBTC",
+    "name": "Saber weHBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm/icon.png",
+    "decimals": 8,
+    "address": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/whbtc"
+    }
+  },
+  {
     "symbol": "wbUSDT-USDT",
     "name": "Saber wbUSDT-USDT LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv/icon.png",
