@@ -116,6 +116,36 @@
     }
   },
   {
+    "symbol": "afUSDC-USDC",
+    "name": "Saber afUSDC-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo/icon.png",
+    "decimals": 9,
+    "address": "ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/afusdc"
+    }
+  },
+  {
+    "symbol": "afETH-weWETH",
+    "name": "Saber afETH-weWETH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e/icon.png",
+    "decimals": 9,
+    "address": "ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/afeth"
+    }
+  },
+  {
     "symbol": "abUSDC-USDC",
     "name": "Saber abUSDC-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P/icon.png",
@@ -173,6 +203,36 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/abeth"
+    }
+  },
+  {
+    "symbol": "afBTC-renBTC",
+    "name": "Saber afBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5/icon.png",
+    "decimals": 9,
+    "address": "ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/afbtc"
+    }
+  },
+  {
+    "symbol": "afDAI-USDC",
+    "name": "Saber afDAI-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov/icon.png",
+    "decimals": 9,
+    "address": "ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/afdai"
     }
   },
   {
