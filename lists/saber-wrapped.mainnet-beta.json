@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-12-08T00:07:40.925Z",
+  "timestamp": "2021-12-09T22:25:58.376Z",
   "tokens": [
     {
       "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -148,10 +148,10 @@
       }
     },
     {
-      "name": "Saber Wrapped FTT (Wormhole) (9 decimals)",
+      "name": "Saber Wrapped FTX Token (Wormhole) (9 decimals)",
       "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
       "decimals": 9,
-      "symbol": "sweFTX Token-9",
+      "symbol": "sweFTT-9",
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx/icon.png",
       "tags": [
@@ -344,6 +344,33 @@
         "currency": "USD",
         "underlyingTokens": [
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped UST (Wormhole) (9 decimals)",
+      "address": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
+      "decimals": 9,
+      "symbol": "swtUST-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW/icon.png",
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "saber-mkt-usd",
+        "wormhole-v2",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "address": "uusd",
+        "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+        "coingeckoId": "terra-usd",
+        "currency": "USD",
+        "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "website": "https://app.saber.so",
+        "underlyingTokens": [
+          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ]
       }
     }
