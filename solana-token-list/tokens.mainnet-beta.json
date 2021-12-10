@@ -49,7 +49,6 @@
       "coingeckoId": "bitcoin",
       "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
       "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
-      "sourceUrl": "https://www.sollet.io/",
       "website": "https://app.saber.so"
     }
   },
@@ -459,8 +458,7 @@
     "extensions": {
       "coingeckoId": "renbtc",
       "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
-      "website": "https://app.saber.so",
-      "sourceUrl": "https://bridge.renproject.io/mint"
+      "website": "https://app.saber.so"
     }
   },
   {
@@ -479,7 +477,6 @@
       "website": "https://app.saber.so",
       "twitter": "https://twitter.com/CashioApp",
       "coingeckoId": "usd-coin",
-      "sourceUrl": "https://cashio.app/#/print",
       "discord": "https://discord.com/invite/GmkRRKJkuh",
       "medium": "https://medium.com/@cashioapp"
     }
@@ -587,8 +584,7 @@
     "extensions": {
       "coingeckoId": "renbtc",
       "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
-      "website": "https://app.saber.so",
-      "sourceUrl": "https://bridge.renproject.io/mint"
+      "website": "https://app.saber.so"
     }
   },
   {
@@ -639,7 +635,6 @@
       "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
       "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
       "coingeckoId": "ftx-token",
-      "sourceUrl": "https://wormholebridge.com/#/transfer",
       "website": "https://app.saber.so"
     }
   },
@@ -821,7 +816,6 @@
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
       "coingeckoId": "weth",
-      "sourceUrl": "https://wormholebridge.com/#/transfer",
       "website": "https://app.saber.so"
     }
   },
@@ -838,8 +832,7 @@
     ],
     "extensions": {
       "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
-      "website": "https://app.saber.so",
-      "sourceUrl": "https://bridge.renproject.io/mint"
+      "website": "https://app.saber.so"
     }
   },
   {
@@ -977,7 +970,6 @@
       "coingeckoId": "bitcoin",
       "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
       "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
-      "sourceUrl": "https://www.sollet.io/",
       "website": "https://app.saber.so"
     }
   },
@@ -999,7 +991,6 @@
       "coingeckoId": "ethereum",
       "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
       "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
-      "sourceUrl": "https://www.sollet.io/",
       "website": "https://app.saber.so"
     }
   },
@@ -1156,7 +1147,6 @@
       "address": "uusd",
       "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
       "coingeckoId": "terra-usd",
-      "sourceUrl": "https://wormholebridge.com/#/transfer",
       "website": "https://app.saber.so"
     }
   },
