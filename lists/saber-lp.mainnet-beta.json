@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-12-09T22:25:57.404Z",
+  "timestamp": "2021-12-10T00:02:36.495Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -103,6 +103,26 @@
       }
     },
     {
+      "symbol": "aeFEI-wtUST",
+      "name": "Saber aeFEI-wtUST LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik/icon.png",
+      "decimals": 9,
+      "address": "ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/fei_ust",
+        "underlyingTokens": [
+          "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+          "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "symbol": "afETH-weWETH",
       "name": "Saber afETH-weWETH LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e/icon.png",
@@ -158,6 +178,26 @@
         "underlyingTokens": [
           "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
           "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "aeFEI-CASH",
+      "name": "Saber aeFEI-CASH LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq/icon.png",
+      "decimals": 9,
+      "address": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/fei_cash",
+        "underlyingTokens": [
+          "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+          "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
         ],
         "source": "saber"
       }

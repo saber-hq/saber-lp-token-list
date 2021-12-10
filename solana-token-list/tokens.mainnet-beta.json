@@ -131,6 +131,21 @@
     }
   },
   {
+    "symbol": "aeFEI-wtUST",
+    "name": "Saber aeFEI-wtUST LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik/icon.png",
+    "decimals": 9,
+    "address": "ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/fei_ust"
+    }
+  },
+  {
     "symbol": "afETH-weWETH",
     "name": "Saber afETH-weWETH LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e/icon.png",
@@ -173,6 +188,21 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/abusdt"
+    }
+  },
+  {
+    "symbol": "aeFEI-CASH",
+    "name": "Saber aeFEI-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq/icon.png",
+    "decimals": 9,
+    "address": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/fei_cash"
     }
   },
   {
