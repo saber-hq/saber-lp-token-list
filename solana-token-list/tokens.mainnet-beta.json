@@ -415,8 +415,8 @@
     }
   },
   {
-    "symbol": "wBUSDv1V1-USDC",
-    "name": "Saber wBUSD_v1_V1-USDC LP",
+    "symbol": "wBUSDv1-USDC",
+    "name": "Saber wBUSD_v1-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3/icon.png",
     "decimals": 9,
     "address": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
@@ -556,8 +556,8 @@
     }
   },
   {
-    "symbol": "wDAIv1V1-USDC",
-    "name": "Saber wDAI_v1_V1-USDC LP",
+    "symbol": "wDAIv1-USDC",
+    "name": "Saber wDAI_v1-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh/icon.png",
     "decimals": 9,
     "address": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh",
@@ -588,8 +588,8 @@
     }
   },
   {
-    "symbol": "wFRAXv1V1-USDC",
-    "name": "Saber wFRAX_v1_V1-USDC LP",
+    "symbol": "wFRAXv1-USDC",
+    "name": "Saber wFRAX_v1-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK/icon.png",
     "decimals": 9,
     "address": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK",
@@ -661,8 +661,8 @@
     }
   },
   {
-    "symbol": "wFTTv1V1-FTT",
-    "name": "Saber wFTT_v1_V1-FTT LP",
+    "symbol": "wFTTv1-FTT",
+    "name": "Saber wFTT_v1-FTT LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7/icon.png",
     "decimals": 9,
     "address": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
@@ -706,8 +706,8 @@
     }
   },
   {
-    "symbol": "wHBTCv1V1-renBTC",
-    "name": "Saber wHBTC_v1_V1-renBTC LP",
+    "symbol": "wHBTCv1-renBTC",
+    "name": "Saber wHBTC_v1-renBTC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo/icon.png",
     "decimals": 9,
     "address": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
@@ -751,8 +751,8 @@
     }
   },
   {
-    "symbol": "wHUSDv1V1-USDC",
-    "name": "Saber wHUSD_v1_V1-USDC LP",
+    "symbol": "wHUSDv1-USDC",
+    "name": "Saber wHUSD_v1-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS/icon.png",
     "decimals": 8,
     "address": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
@@ -851,8 +851,8 @@
     }
   },
   {
-    "symbol": "wLUNAv1V1-renLUNA",
-    "name": "Saber wLUNA_v1_V1-renLUNA LP",
+    "symbol": "wLUNAv1-renLUNA",
+    "name": "Saber wLUNA_v1-renLUNA LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE/icon.png",
     "decimals": 9,
     "address": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE",
@@ -1115,8 +1115,8 @@
     }
   },
   {
-    "symbol": "wUSTv1V1-USDC",
-    "name": "Saber wUST_v1_V1-USDC LP",
+    "symbol": "wUSTv1-USDC",
+    "name": "Saber wUST_v1-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc/icon.png",
     "decimals": 9,
     "address": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
@@ -1372,6 +1372,20 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/pbtc"
+    }
+  },
+  {
+    "symbol": "JSOL-SOL",
+    "name": "Saber JSOL-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw/icon.png",
+    "decimals": 9,
+    "address": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/jsol"
     }
   },
   {
