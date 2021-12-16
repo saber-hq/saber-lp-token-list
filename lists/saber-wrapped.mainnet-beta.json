@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-12-15T00:07:31.071Z",
+  "timestamp": "2021-12-16T00:07:31.894Z",
   "tokens": [
     {
       "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -151,7 +151,7 @@
       "name": "Saber Wrapped FTX Token (Wormhole) (9 decimals)",
       "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
       "decimals": 9,
-      "symbol": "sweFTT-9",
+      "symbol": "sFTT-9",
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx/icon.png",
       "tags": [
@@ -178,7 +178,7 @@
       "name": "Saber Wrapped Wrapped FTT (Sollet) (9 decimals)",
       "address": "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
       "decimals": 9,
-      "symbol": "sFTT-9",
+      "symbol": "ssoFTT-9",
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt/icon.png",
       "tags": [
@@ -226,7 +226,7 @@
       "name": "Saber Wrapped Ether (Wormhole) (9 decimals)",
       "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
       "decimals": 9,
-      "symbol": "sweWETH-9",
+      "symbol": "sETH-9",
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma/icon.png",
       "tags": [
@@ -302,7 +302,7 @@
       "name": "Saber Wrapped Ethereum (Sollet) (8 decimals)",
       "address": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
       "decimals": 8,
-      "symbol": "sETH-8",
+      "symbol": "ssoETH-8",
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj/icon.png",
       "tags": [
@@ -351,7 +351,7 @@
       "name": "Saber Wrapped UST (Wormhole) (9 decimals)",
       "address": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
       "decimals": 9,
-      "symbol": "swtUST-9",
+      "symbol": "sUST-9",
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW/icon.png",
       "tags": [
