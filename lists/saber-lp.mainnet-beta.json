@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-12-17T00:07:38.649Z",
+  "timestamp": "2021-12-18T00:07:46.790Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -1276,6 +1276,26 @@
       }
     },
     {
+      "symbol": "FRAX-UST",
+      "name": "Saber FRAX-UST LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD/icon.png",
+      "decimals": 8,
+      "address": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/frax_ust",
+        "underlyingTokens": [
+          "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "symbol": "BUSDbs-USDC",
       "name": "Saber BUSDbs-USDC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS/icon.png",
@@ -1311,6 +1331,26 @@
         "underlyingTokens": [
           "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "FRAX-CASH",
+      "name": "Saber FRAX-CASH LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n/icon.png",
+      "decimals": 8,
+      "address": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-cashio"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/frax_cash",
+        "underlyingTokens": [
+          "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s"
         ],
         "source": "saber"
       }
