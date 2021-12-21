@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-12-20T00:08:00.690Z",
+  "timestamp": "2021-12-21T00:08:19.586Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -1291,6 +1291,27 @@
         "underlyingTokens": [
           "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "acEUR-agEUR",
+      "name": "Saber acEUR-agEUR LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz/icon.png",
+      "decimals": 9,
+      "address": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/aceur_ageur",
+        "underlyingTokens": [
+          "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
+          "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
         ],
         "source": "saber"
       }
