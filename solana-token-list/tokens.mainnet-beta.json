@@ -561,8 +561,8 @@
     }
   },
   {
-    "symbol": "DAIet-USDC",
-    "name": "Saber DAIet-USDC LP",
+    "symbol": "DAI-USDC",
+    "name": "Saber DAI-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3/icon.png",
     "decimals": 8,
     "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
@@ -680,6 +680,8 @@
       "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
       "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
       "coingeckoId": "ftx-token",
+      "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
+      "serumV3Usdt": "BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk",
       "website": "https://app.saber.so"
     }
   },
@@ -860,7 +862,9 @@
     "extensions": {
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-      "coingeckoId": "weth",
+      "coingeckoId": "ethereum",
+      "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+      "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
       "website": "https://app.saber.so"
     }
   },
@@ -908,6 +912,21 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/luna"
+    }
+  },
+  {
+    "symbol": "TRYB-TRYB",
+    "name": "Saber TRYB-TRYB LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer/icon.png",
+    "decimals": 6,
+    "address": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/bilira"
     }
   },
   {

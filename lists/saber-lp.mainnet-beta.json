@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2021-12-30T00:08:01.824Z",
+  "timestamp": "2021-12-31T00:08:16.913Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -602,8 +602,8 @@
       }
     },
     {
-      "symbol": "DAIet-USDC",
-      "name": "Saber DAIet-USDC LP",
+      "symbol": "DAI-USDC",
+      "name": "Saber DAI-USDC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3/icon.png",
       "decimals": 8,
       "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
@@ -877,6 +877,26 @@
         "underlyingTokens": [
           "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
           "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "TRYB-TRYB",
+      "name": "Saber TRYB-TRYB LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer/icon.png",
+      "decimals": 6,
+      "address": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/bilira",
+        "underlyingTokens": [
+          "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+          "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
         ],
         "source": "saber"
       }
