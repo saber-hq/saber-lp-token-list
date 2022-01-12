@@ -130,6 +130,21 @@
     }
   },
   {
+    "symbol": "atUST-CASH",
+    "name": "Saber atUST-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA/icon.png",
+    "decimals": 9,
+    "address": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-cashio"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/atust_cash"
+    }
+  },
+  {
     "symbol": "aeFEI-UST",
     "name": "Saber aeFEI-UST LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik/icon.png",
@@ -885,6 +900,22 @@
     }
   },
   {
+    "symbol": "atLUNA-LUNA",
+    "name": "Saber atLUNA-LUNA LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY/icon.png",
+    "decimals": 9,
+    "address": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/atust_wust"
+    }
+  },
+  {
     "symbol": "LUNA-renLUNA",
     "name": "Saber LUNA-renLUNA LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU/icon.png",
@@ -897,6 +928,43 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/wluna"
+    }
+  },
+  {
+    "name": "Saber Wrapped LUNA (Wormhole) (9 decimals)",
+    "address": "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB",
+    "decimals": 9,
+    "symbol": "sLUNA-9",
+    "chainId": 101,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB/icon.png",
+    "tags": [
+      "wrapped",
+      "wormhole",
+      "saber-mkt-luna",
+      "wormhole-v2",
+      "saber-dec-wrapped"
+    ],
+    "extensions": {
+      "address": "uluna",
+      "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+      "coingeckoId": "terra-luna",
+      "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
+      "website": "https://app.saber.so"
+    }
+  },
+  {
+    "symbol": "xLUNA-LUNA",
+    "name": "Saber xLUNA-LUNA LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP/icon.png",
+    "decimals": 6,
+    "address": "LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-synthetify"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/xluna"
     }
   },
   {

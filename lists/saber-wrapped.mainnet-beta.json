@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-01-11T00:08:20.512Z",
+  "timestamp": "2022-01-12T00:08:18.397Z",
   "tokens": [
     {
       "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -329,6 +329,34 @@
         "sourceUrl": "https://bridge.renproject.io/mint",
         "underlyingTokens": [
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
+        ]
+      }
+    },
+    {
+      "name": "Saber Wrapped LUNA (Wormhole) (9 decimals)",
+      "address": "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB",
+      "decimals": 9,
+      "symbol": "sLUNA-9",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB/icon.png",
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "saber-mkt-luna",
+        "wormhole-v2",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "address": "uluna",
+        "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+        "coingeckoId": "terra-luna",
+        "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
+        "currency": "LUNA",
+        "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "website": "https://app.saber.so",
+        "underlyingTokens": [
+          "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
         ]
       }
     },
