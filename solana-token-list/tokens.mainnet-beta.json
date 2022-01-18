@@ -1321,6 +1321,20 @@
     }
   },
   {
+    "symbol": "UXD-USDC",
+    "name": "Saber UXD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ/icon.png",
+    "decimals": 6,
+    "address": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/uxd"
+    }
+  },
+  {
     "symbol": "USDTpo-USDT",
     "name": "Saber USDTpo-USDT LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj/icon.png",
