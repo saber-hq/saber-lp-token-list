@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-01-19T00:07:40.677Z",
+  "timestamp": "2022-01-19T22:56:21.900Z",
   "tokens": [
     {
       "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -111,14 +111,13 @@
         "saber-dec-wrapped"
       ],
       "extensions": {
-        "website": "https://app.saber.so",
-        "twitter": "https://twitter.com/CashioApp",
-        "coingeckoId": "usd-coin",
-        "source": "cashio",
-        "sourceUrl": "https://cashio.app/#/print",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
+        "twitter": "https://twitter.com/CashioApp",
+        "website": "https://app.saber.so",
         "currency": "USD",
+        "source": "Cashio",
+        "sourceUrl": "https://cashio.app/",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ]
@@ -137,14 +136,13 @@
         "saber-dec-wrapped"
       ],
       "extensions": {
-        "website": "https://app.saber.so",
-        "twitter": "https://twitter.com/CashioApp",
-        "coingeckoId": "usd-coin",
-        "source": "cashio",
-        "sourceUrl": "https://cashio.app/#/print",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
+        "twitter": "https://twitter.com/CashioApp",
+        "website": "https://app.saber.so",
         "currency": "USD",
+        "source": "Cashio",
+        "sourceUrl": "https://cashio.app/",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ]
@@ -205,6 +203,34 @@
       }
     },
     {
+      "name": "Saber Wrapped Wrapped FTT (Sollet) (8 decimals)",
+      "address": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+      "decimals": 8,
+      "symbol": "ssoFTT-8",
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr/icon.png",
+      "tags": [
+        "wrapped-sollet",
+        "ethereum",
+        "saber-mkt-ftt",
+        "saber-dec-wrapped"
+      ],
+      "extensions": {
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "ftx-token",
+        "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
+        "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
+        "currency": "FTT",
+        "source": "sollet",
+        "sourceUrl": "https://www.sollet.io/",
+        "website": "https://app.saber.so",
+        "underlyingTokens": [
+          "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
+        ]
+      }
+    },
+    {
       "name": "Saber Wrapped FTX Token (Wormhole) (9 decimals)",
       "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
       "decimals": 9,
@@ -253,6 +279,8 @@
         "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
         "waterfallbot": "https://bit.ly/FTTwaterfall",
         "currency": "FTT",
+        "source": "sollet",
+        "sourceUrl": "https://www.sollet.io/",
         "website": "https://app.saber.so",
         "underlyingTokens": [
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"

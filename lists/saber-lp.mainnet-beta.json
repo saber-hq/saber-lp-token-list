@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-01-19T00:07:39.485Z",
+  "timestamp": "2022-01-19T22:56:20.572Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -106,7 +106,7 @@
       "symbol": "atUST-CASH",
       "name": "Saber atUST-CASH LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA/icon.png",
-      "decimals": 9,
+      "decimals": 6,
       "address": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
       "chainId": 101,
       "tags": [
@@ -1432,6 +1432,26 @@
         "underlyingTokens": [
           "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "soFTT-FTT",
+      "name": "Saber soFTT-FTT LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg/icon.png",
+      "decimals": 8,
+      "address": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/sollet_ftt",
+        "underlyingTokens": [
+          "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+          "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
         "source": "saber"
       }

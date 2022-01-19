@@ -133,7 +133,7 @@
     "symbol": "atUST-CASH",
     "name": "Saber atUST-CASH LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA/icon.png",
-    "decimals": 9,
+    "decimals": 6,
     "address": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
     "chainId": 101,
     "tags": [
@@ -489,11 +489,10 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "website": "https://app.saber.so",
-      "twitter": "https://twitter.com/CashioApp",
-      "coingeckoId": "usd-coin",
       "discord": "https://discord.com/invite/GmkRRKJkuh",
-      "medium": "https://medium.com/@cashioapp"
+      "medium": "https://medium.com/@cashioapp",
+      "twitter": "https://twitter.com/CashioApp",
+      "website": "https://app.saber.so"
     }
   },
   {
@@ -509,11 +508,10 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "website": "https://app.saber.so",
-      "twitter": "https://twitter.com/CashioApp",
-      "coingeckoId": "usd-coin",
       "discord": "https://discord.com/invite/GmkRRKJkuh",
-      "medium": "https://medium.com/@cashioapp"
+      "medium": "https://medium.com/@cashioapp",
+      "twitter": "https://twitter.com/CashioApp",
+      "website": "https://app.saber.so"
     }
   },
   {
@@ -675,6 +673,28 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/wfrax"
+    }
+  },
+  {
+    "name": "Saber Wrapped Wrapped FTT (Sollet) (8 decimals)",
+    "address": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+    "decimals": 8,
+    "symbol": "ssoFTT-8",
+    "chainId": 101,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr/icon.png",
+    "tags": [
+      "wrapped-sollet",
+      "ethereum",
+      "saber-mkt-ftt",
+      "saber-dec-wrapped"
+    ],
+    "extensions": {
+      "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+      "coingeckoId": "ftx-token",
+      "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
+      "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
+      "waterfallbot": "https://bit.ly/FTTwaterfall",
+      "website": "https://app.saber.so"
     }
   },
   {
@@ -1453,6 +1473,21 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/#/pools/wbusd"
+    }
+  },
+  {
+    "symbol": "soFTT-FTT",
+    "name": "Saber soFTT-FTT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg/icon.png",
+    "decimals": 8,
+    "address": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/sollet_ftt"
     }
   },
   {
