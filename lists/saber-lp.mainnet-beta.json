@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-01-25T00:08:08.818Z",
+  "timestamp": "2022-01-26T00:08:24.053Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -657,6 +657,25 @@
         "underlyingTokens": [
           "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "eSOL-SOL",
+      "name": "Saber eSOL-SOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau/icon.png",
+      "decimals": 9,
+      "address": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/everstake_sol",
+        "underlyingTokens": [
+          "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+          "So11111111111111111111111111111111111111112"
         ],
         "source": "saber"
       }
