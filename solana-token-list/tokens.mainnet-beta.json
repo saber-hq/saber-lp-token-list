@@ -1369,6 +1369,21 @@
     }
   },
   {
+    "symbol": "UXD-CASH",
+    "name": "Saber UXD-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW/icon.png",
+    "decimals": 6,
+    "address": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-cashio"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/uxd_cash"
+    }
+  },
+  {
     "symbol": "USDTpo-USDT",
     "name": "Saber USDTpo-USDT LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj/icon.png",
