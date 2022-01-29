@@ -847,6 +847,35 @@
     }
   },
   {
+    "symbol": "USDH-USDC",
+    "name": "Saber USDH-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS/icon.png",
+    "decimals": 6,
+    "address": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/usdh"
+    }
+  },
+  {
+    "symbol": "USDH-CASH",
+    "name": "Saber USDH-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59/icon.png",
+    "decimals": 6,
+    "address": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-cashio"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/usdh_cash"
+    }
+  },
+  {
     "symbol": "wHUSDv1-USDC",
     "name": "Saber wHUSD_v1-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS/icon.png",
