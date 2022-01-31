@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-01-31T06:52:07.797Z",
+  "timestamp": "2022-01-31T07:51:47.923Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -114,12 +114,12 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/atust_cash",
+        "source": "saber",
         "underlyingTokens": [
           "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/atust_cash"
       }
     },
     {
@@ -672,12 +672,12 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/everstake_sol",
+        "source": "saber",
         "underlyingTokens": [
           "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
           "So11111111111111111111111111111111111111112"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/everstake_sol"
       }
     },
     {
@@ -851,12 +851,12 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/usdh",
+        "source": "saber",
         "underlyingTokens": [
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/usdh"
       }
     },
     {
@@ -871,12 +871,12 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/usdh_cash",
+        "source": "saber",
         "underlyingTokens": [
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/usdh_cash"
       }
     },
     {
@@ -932,12 +932,12 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/atust_wust",
+        "source": "saber",
         "underlyingTokens": [
           "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
           "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/atust_wust"
       }
     },
     {
@@ -972,12 +972,12 @@
         "saber-lp-synthetify"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/xluna",
+        "source": "saber",
         "underlyingTokens": [
           "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/xluna"
       }
     },
     {
@@ -1325,12 +1325,12 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/uxd",
+        "source": "saber",
         "underlyingTokens": [
           "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/uxd"
       }
     },
     {
@@ -1345,12 +1345,12 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/uxd_cash",
+        "source": "saber",
         "underlyingTokens": [
           "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/uxd_cash"
       }
     },
     {
@@ -1526,12 +1526,12 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/sollet_ftt",
+        "source": "saber",
         "underlyingTokens": [
           "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/sollet_ftt"
       }
     },
     {
