@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-02-09T00:33:34.085Z",
+  "timestamp": "2022-02-09T00:52:32.984Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -1215,6 +1215,44 @@
       }
     },
     {
+      "symbol": "mSOL-JSOL",
+      "name": "Saber mSOL-JSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9/icon.png",
+      "decimals": 9,
+      "address": "SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/msol_jsol",
+        "underlyingTokens": [
+          "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "scnSOL-JSOL",
+      "name": "Saber scnSOL-JSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca/icon.png",
+      "decimals": 9,
+      "address": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/scn_jsol",
+        "underlyingTokens": [
+          "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "symbol": "USDCet-USDC",
       "name": "Saber USDCet-USDC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c/icon.png",
@@ -1325,12 +1363,12 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/solust",
+        "source": "saber",
         "underlyingTokens": [
           "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
-        "source": "saber"
+        "website": "https://app.saber.so/#/pools/solust"
       }
     },
     {
