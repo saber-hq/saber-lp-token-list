@@ -1219,6 +1219,36 @@
     }
   },
   {
+    "symbol": "cSOL-cmSOL",
+    "name": "Saber cSOL-cmSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa/icon.png",
+    "decimals": 9,
+    "address": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-solend"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/solend_sol_msol"
+    }
+  },
+  {
+    "symbol": "cUSDC-cUSDT",
+    "name": "Saber cUSDC-cUSDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1/icon.png",
+    "decimals": 6,
+    "address": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-solend"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/solend_usdc_usdt"
+    }
+  },
+  {
     "symbol": "scnSOL-SOL",
     "name": "Saber scnSOL-SOL LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj/icon.png",

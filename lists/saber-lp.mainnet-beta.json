@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-02-14T18:50:46.288Z",
+  "timestamp": "2022-02-14T19:09:52.044Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -1172,6 +1172,46 @@
         "underlyingTokens": [
           "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "cSOL-cmSOL",
+      "name": "Saber cSOL-cmSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa/icon.png",
+      "decimals": 9,
+      "address": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-solend"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/solend_sol_msol",
+        "underlyingTokens": [
+          "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
+          "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "cUSDC-cUSDT",
+      "name": "Saber cUSDC-cUSDT LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1/icon.png",
+      "decimals": 6,
+      "address": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-solend"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/solend_usdc_usdt",
+        "underlyingTokens": [
+          "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
+          "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
         ],
         "source": "saber"
       }
