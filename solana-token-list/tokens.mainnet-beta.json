@@ -14,20 +14,6 @@
     }
   },
   {
-    "symbol": "stSOL-mSOL",
-    "name": "Saber stSOL-mSOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF/icon.png",
-    "decimals": 9,
-    "address": "4FKZsej5FonJWj24xhgG13wV4FSMQqTDwABBQaoQNMZF",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/stsol_msol"
-    }
-  },
-  {
     "name": "Saber Wrapped USD Coin (8 decimals)",
     "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
     "decimals": 8,
@@ -671,20 +657,6 @@
       "coingeckoId": "renbtc",
       "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
       "website": "https://app.saber.so"
-    }
-  },
-  {
-    "symbol": "scnSOL-mSOL",
-    "name": "Saber scnSOL-mSOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE/icon.png",
-    "decimals": 9,
-    "address": "FP9C3p1r19tVyUDLgN98wcu4Rdzsu5hAcqFwY3MzbLpE",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/scn_msol"
     }
   },
   {
