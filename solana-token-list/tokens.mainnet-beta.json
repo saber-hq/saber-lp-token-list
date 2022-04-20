@@ -26,9 +26,9 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "coingeckoId": "usd-coin",
+      "website": "https://app.saber.so",
       "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-      "website": "https://app.saber.so"
+      "coingeckoId": "usd-coin"
     }
   },
   {
@@ -46,9 +46,9 @@
     ],
     "extensions": {
       "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-      "coingeckoId": "bitcoin",
-      "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
       "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
+      "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
+      "coingeckoId": "bitcoin",
       "website": "https://app.saber.so"
     }
   },
@@ -95,9 +95,9 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "coingeckoId": "tether",
+      "website": "https://app.saber.so",
       "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-      "website": "https://app.saber.so"
+      "coingeckoId": "tether"
     }
   },
   {
@@ -471,9 +471,9 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "coingeckoId": "renbtc",
+      "website": "https://app.saber.so",
       "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
-      "website": "https://app.saber.so"
+      "coingeckoId": "renbtc"
     }
   },
   {
@@ -489,10 +489,10 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "discord": "https://discord.com/invite/GmkRRKJkuh",
-      "medium": "https://medium.com/@cashioapp",
+      "website": "https://app.saber.so",
       "twitter": "https://twitter.com/CashioApp",
-      "website": "https://app.saber.so"
+      "medium": "https://medium.com/@cashioapp",
+      "discord": "https://discord.com/invite/GmkRRKJkuh"
     }
   },
   {
@@ -508,10 +508,10 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "discord": "https://discord.com/invite/GmkRRKJkuh",
-      "medium": "https://medium.com/@cashioapp",
+      "website": "https://app.saber.so",
       "twitter": "https://twitter.com/CashioApp",
-      "website": "https://app.saber.so"
+      "medium": "https://medium.com/@cashioapp",
+      "discord": "https://discord.com/invite/GmkRRKJkuh"
     }
   },
   {
@@ -633,13 +633,13 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+      "website": "https://app.saber.so",
       "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+      "twitter": "https://twitter.com/AngleProtocol",
+      "discord": "https://discord.gg/z3kCpTaKMh",
       "coingeckoId": "ageur",
       "description": "Angle is the first decentralized, capital efficient and over-collateralized stablecoin protocol",
-      "discord": "https://discord.gg/z3kCpTaKMh",
-      "twitter": "https://twitter.com/AngleProtocol",
-      "website": "https://app.saber.so"
+      "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8"
     }
   },
   {
@@ -654,9 +654,9 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "coingeckoId": "renbtc",
+      "website": "https://app.saber.so",
       "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
-      "website": "https://app.saber.so"
+      "coingeckoId": "renbtc"
     }
   },
   {
@@ -704,9 +704,9 @@
     ],
     "extensions": {
       "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-      "coingeckoId": "ftx-token",
-      "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
       "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
+      "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
+      "coingeckoId": "ftx-token",
       "waterfallbot": "https://bit.ly/FTTwaterfall",
       "website": "https://app.saber.so"
     }
@@ -726,11 +726,11 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
       "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-      "coingeckoId": "ftx-token",
-      "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
       "serumV3Usdt": "BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk",
+      "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
+      "coingeckoId": "ftx-token",
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
       "website": "https://app.saber.so"
     }
   },
@@ -749,9 +749,9 @@
     ],
     "extensions": {
       "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-      "coingeckoId": "ftx-token",
-      "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
       "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
+      "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
+      "coingeckoId": "ftx-token",
       "waterfallbot": "https://bit.ly/FTTwaterfall",
       "website": "https://app.saber.so"
     }
@@ -906,6 +906,20 @@
     }
   },
   {
+    "symbol": "USDH-UST",
+    "name": "Saber USDH-UST LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH/icon.png",
+    "decimals": 6,
+    "address": "HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/USDH_UST"
+    }
+  },
+  {
     "name": "Saber Wrapped USD Coin (9 decimals)",
     "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
     "decimals": 9,
@@ -918,9 +932,9 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "coingeckoId": "usd-coin",
+      "website": "https://app.saber.so",
       "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-      "website": "https://app.saber.so"
+      "coingeckoId": "usd-coin"
     }
   },
   {
@@ -938,11 +952,11 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-      "coingeckoId": "ethereum",
-      "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
       "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
+      "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
+      "coingeckoId": "ethereum",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "website": "https://app.saber.so"
     }
   },
@@ -958,8 +972,8 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
-      "website": "https://app.saber.so"
+      "website": "https://app.saber.so",
+      "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT"
     }
   },
   {
@@ -1008,10 +1022,10 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "address": "uluna",
       "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-      "coingeckoId": "terra-luna",
       "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
+      "coingeckoId": "terra-luna",
+      "address": "uluna",
       "website": "https://app.saber.so"
     }
   },
@@ -1162,9 +1176,9 @@
     ],
     "extensions": {
       "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-      "coingeckoId": "bitcoin",
-      "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
       "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
+      "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
+      "coingeckoId": "bitcoin",
       "website": "https://app.saber.so"
     }
   },
@@ -1183,9 +1197,9 @@
     ],
     "extensions": {
       "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-      "coingeckoId": "ethereum",
-      "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
       "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
+      "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
+      "coingeckoId": "ethereum",
       "website": "https://app.saber.so"
     }
   },
@@ -1317,9 +1331,9 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "coingeckoId": "tether",
+      "website": "https://app.saber.so",
       "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-      "website": "https://app.saber.so"
+      "coingeckoId": "tether"
     }
   },
   {
@@ -1398,10 +1412,10 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "address": "uusd",
       "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-      "coingeckoId": "terrausd",
       "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
+      "coingeckoId": "terrausd",
+      "address": "uusd",
       "website": "https://app.saber.so"
     }
   },
@@ -1421,10 +1435,10 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
-      "address": "uusd",
       "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-      "coingeckoId": "terrausd",
       "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
+      "coingeckoId": "terrausd",
+      "address": "uusd",
       "website": "https://app.saber.so"
     }
   },

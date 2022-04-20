@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-04-20T00:13:00.226Z",
+  "timestamp": "2022-04-20T17:24:57.973Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -915,6 +915,25 @@
         "underlyingTokens": [
           "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "USDH-UST",
+      "name": "Saber USDH-UST LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH/icon.png",
+      "decimals": 6,
+      "address": "HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/USDH_UST",
+        "underlyingTokens": [
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
         "source": "saber"
       }
