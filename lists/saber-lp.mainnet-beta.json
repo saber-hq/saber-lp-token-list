@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-04-20T17:35:45.481Z",
+  "timestamp": "2022-04-20T17:42:15.468Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -930,7 +930,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/USDH_UST",
+        "website": "https://app.saber.so/#/pools/usdh_ust",
         "underlyingTokens": [
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
