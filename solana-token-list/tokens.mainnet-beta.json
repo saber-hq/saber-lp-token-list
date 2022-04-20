@@ -1090,6 +1090,20 @@
     }
   },
   {
+    "symbol": "NIRV-UST",
+    "name": "Saber NIRV-UST LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn/icon.png",
+    "decimals": 6,
+    "address": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/#/pools/nirv_ust"
+    }
+  },
+  {
     "symbol": "apUSDT-USDT",
     "name": "Saber apUSDT-USDT LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj/icon.png",
