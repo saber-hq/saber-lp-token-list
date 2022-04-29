@@ -25,7 +25,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/usdc_cash"
+      "website": "https://app.saber.so/pools/usdc_cash"
     }
   },
   {
@@ -39,7 +39,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/usdc_test"
+      "website": "https://app.saber.so/pools/usdc_test"
     }
   },
   {
@@ -53,7 +53,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/usdc_pai"
+      "website": "https://app.saber.so/pools/usdc_pai"
     }
   },
   {
@@ -67,7 +67,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/usdt_cash"
+      "website": "https://app.saber.so/pools/usdt_cash"
     }
   },
   {
@@ -81,7 +81,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/usdc_usdt"
+      "website": "https://app.saber.so/pools/usdc_usdt"
     }
   },
   {
@@ -95,7 +95,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/btc"
+      "website": "https://app.saber.so/pools/btc"
     }
   }
 ]
