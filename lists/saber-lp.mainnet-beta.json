@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-05-13T00:14:40.176Z",
+  "timestamp": "2022-05-13T23:52:50.983Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -562,6 +562,25 @@
       }
     },
     {
+      "symbol": "calUSD-USDC",
+      "name": "Saber calUSD-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa/icon.png",
+      "decimals": 9,
+      "address": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/calusd",
+        "underlyingTokens": [
+          "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "symbol": "PAI-CASH",
       "name": "Saber PAI-CASH LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY/icon.png",
@@ -1112,6 +1131,63 @@
         "underlyingTokens": [
           "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "NIRV-USDC",
+      "name": "Saber NIRV-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP/icon.png",
+      "decimals": 6,
+      "address": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/nirv_usdc",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "NIRV-USDH",
+      "name": "Saber NIRV-USDH LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e/icon.png",
+      "decimals": 6,
+      "address": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/nirv_usdh",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "NIRV-USDT",
+      "name": "Saber NIRV-USDT LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y/icon.png",
+      "decimals": 6,
+      "address": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/nirv_usdt",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
         "source": "saber"
       }
