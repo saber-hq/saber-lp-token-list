@@ -1,7 +1,7 @@
 [
   {
-    "symbol": "USDT-USDC",
-    "name": "Saber USDT-USDC LP",
+    "symbol": "USDC-USDT",
+    "name": "Saber USDC-USDT LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf/icon.png",
     "decimals": 6,
     "address": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
@@ -78,7 +78,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/aeusdc"
+      "website": "https://app.saber.so/pools/aeusdc_susdc-9"
     }
   },
   {
@@ -93,7 +93,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/aeeth"
+      "website": "https://app.saber.so/pools/seth-9_aeweth"
     }
   },
   {
@@ -125,7 +125,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/asol"
+      "website": "https://app.saber.so/pools/asol_sol"
     }
   },
   {
@@ -140,7 +140,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/afusdc"
+      "website": "https://app.saber.so/pools/afusdc_susdc-9"
     }
   },
   {
@@ -170,7 +170,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/fei_ust"
+      "website": "https://app.saber.so/pools/aefei_sust-9"
     }
   },
   {
@@ -185,7 +185,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/afeth"
+      "website": "https://app.saber.so/pools/afeth_seth-9"
     }
   },
   {
@@ -200,7 +200,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/abusdc"
+      "website": "https://app.saber.so/pools/abusdc_susdc-9"
     }
   },
   {
@@ -215,7 +215,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/abusdt"
+      "website": "https://app.saber.so/pools/abusdt_susdt-9"
     }
   },
   {
@@ -230,7 +230,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/fei_cash"
+      "website": "https://app.saber.so/pools/aefei_scash-9"
     }
   },
   {
@@ -245,7 +245,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/abbtcb"
+      "website": "https://app.saber.so/pools/abbtcb_srenbtc-9"
     }
   },
   {
@@ -260,7 +260,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/mim_cash"
+      "website": "https://app.saber.so/pools/aemim_scash-9"
     }
   },
   {
@@ -275,7 +275,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/mim_ust"
+      "website": "https://app.saber.so/pools/aemim_sust-9"
     }
   },
   {
@@ -290,7 +290,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/abeth"
+      "website": "https://app.saber.so/pools/abeth_seth-9"
     }
   },
   {
@@ -305,7 +305,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/afbtc"
+      "website": "https://app.saber.so/pools/afbtc_srenbtc-9"
     }
   },
   {
@@ -320,7 +320,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/afdai"
+      "website": "https://app.saber.so/pools/afdai_susdc-9"
     }
   },
   {
@@ -335,7 +335,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/apusdc"
+      "website": "https://app.saber.so/pools/apusdc_usdc"
     }
   },
   {
@@ -350,7 +350,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/aawbtc"
+      "website": "https://app.saber.so/pools/aawbtc_srenbtc-9"
     }
   },
   {
@@ -365,7 +365,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/aausdc"
+      "website": "https://app.saber.so/pools/aausdc_susdc-9"
     }
   },
   {
@@ -380,7 +380,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/aadai"
+      "website": "https://app.saber.so/pools/aadai_susdc-9"
     }
   },
   {
@@ -395,7 +395,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/aausdt"
+      "website": "https://app.saber.so/pools/aausdt_susdt-9"
     }
   },
   {
@@ -410,7 +410,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/ibbtc"
+      "website": "https://app.saber.so/pools/wibbtc_v1_sbtc-9"
     }
   },
   {
@@ -425,7 +425,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/ibbtc_ren"
+      "website": "https://app.saber.so/pools/wibbtc_v1_srenbtc-9"
     }
   },
   {
@@ -440,7 +440,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/webusd"
+      "website": "https://app.saber.so/pools/busdet_susdc-8"
     }
   },
   {
@@ -455,7 +455,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/busd"
+      "website": "https://app.saber.so/pools/wbusd_v1_susdc-9"
     }
   },
   {
@@ -470,7 +470,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/abbusd"
+      "website": "https://app.saber.so/pools/abbusd_susdc-9"
     }
   },
   {
@@ -520,7 +520,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/calusd"
+      "website": "https://app.saber.so/pools/calusd_susdc-9"
     }
   },
   {
@@ -568,7 +568,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/cash"
+      "website": "https://app.saber.so/pools/cash_usdc"
     }
   },
   {
@@ -583,7 +583,7 @@
       "saber-lp-cashio"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/acusd_cash"
+      "website": "https://app.saber.so/pools/acusd_scash-9"
     }
   },
   {
@@ -613,7 +613,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wdai"
+      "website": "https://app.saber.so/pools/dai_susdc-8"
     }
   },
   {
@@ -628,7 +628,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/dai"
+      "website": "https://app.saber.so/pools/wdai_v1_susdc-9"
     }
   },
   {
@@ -642,7 +642,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/everstake_sol"
+      "website": "https://app.saber.so/pools/esol_sol"
     }
   },
   {
@@ -698,7 +698,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/scn_msol"
+      "website": "https://app.saber.so/pools/scnsol_msol"
     }
   },
   {
@@ -713,7 +713,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/frax"
+      "website": "https://app.saber.so/pools/wfrax_v1_susdc-9"
     }
   },
   {
@@ -728,7 +728,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wfrax"
+      "website": "https://app.saber.so/pools/frax_susdc-8"
     }
   },
   {
@@ -810,7 +810,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/ftt"
+      "website": "https://app.saber.so/pools/wftt_v1_ssoftt-9"
     }
   },
   {
@@ -825,7 +825,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wftt"
+      "website": "https://app.saber.so/pools/aeftt_sftt-9"
     }
   },
   {
@@ -840,7 +840,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/acusdc"
+      "website": "https://app.saber.so/pools/susdc-9_acusdc"
     }
   },
   {
@@ -855,7 +855,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/hbtc"
+      "website": "https://app.saber.so/pools/whbtc_v1_srenbtc-9"
     }
   },
   {
@@ -870,7 +870,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/ahusdt"
+      "website": "https://app.saber.so/pools/ahusdt_susdc-9"
     }
   },
   {
@@ -885,7 +885,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/ahwbtc"
+      "website": "https://app.saber.so/pools/ahbtc_srenbtc-9"
     }
   },
   {
@@ -899,7 +899,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/usdh"
+      "website": "https://app.saber.so/pools/usdh_usdc"
     }
   },
   {
@@ -929,7 +929,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/husd"
+      "website": "https://app.saber.so/pools/whusd_v1_susdc-8"
     }
   },
   {
@@ -944,7 +944,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/whusd"
+      "website": "https://app.saber.so/pools/husd_susdc-8"
     }
   },
   {
@@ -1031,7 +1031,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/atust_wust"
+      "website": "https://app.saber.so/pools/atluna_sluna-9"
     }
   },
   {
@@ -1046,7 +1046,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wluna"
+      "website": "https://app.saber.so/pools/luna_renluna"
     }
   },
   {
@@ -1083,7 +1083,7 @@
       "saber-lp-synthetify"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/xluna"
+      "website": "https://app.saber.so/pools/xluna_luna"
     }
   },
   {
@@ -1098,7 +1098,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/luna"
+      "website": "https://app.saber.so/pools/wluna_v1_srenluna-9"
     }
   },
   {
@@ -1113,7 +1113,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/bilira"
+      "website": "https://app.saber.so/pools/tryb_tryb"
     }
   },
   {
@@ -1128,7 +1128,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/mai"
+      "website": "https://app.saber.so/pools/mai_susdc-9"
     }
   },
   {
@@ -1199,7 +1199,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/apusdt"
+      "website": "https://app.saber.so/pools/apusdt_usdt"
     }
   },
   {
@@ -1213,7 +1213,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/psol"
+      "website": "https://app.saber.so/pools/psol_prtsol"
     }
   },
   {
@@ -1227,7 +1227,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/usdc_pai"
+      "website": "https://app.saber.so/pools/pai_usdc"
     }
   },
   {
@@ -1242,7 +1242,7 @@
       "saber-lp-port"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/port_2pool"
+      "website": "https://app.saber.so/pools/pusdt_pusdc"
     }
   },
   {
@@ -1256,7 +1256,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/prtsol"
+      "website": "https://app.saber.so/pools/prtsol_sol"
     }
   },
   {
@@ -1302,8 +1302,8 @@
     }
   },
   {
-    "symbol": "BTC-renBTC",
-    "name": "Saber BTC-renBTC LP",
+    "symbol": "renBTC-BTC",
+    "name": "Saber renBTC-BTC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs/icon.png",
     "decimals": 8,
     "address": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
@@ -1312,7 +1312,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/btc"
+      "website": "https://app.saber.so/pools/renbtc_sbtc-8"
     }
   },
   {
@@ -1327,7 +1327,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/srm"
+      "website": "https://app.saber.so/pools/wsrm_v1_srm"
     }
   },
   {
@@ -1342,7 +1342,7 @@
       "saber-lp-solend"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/solend_sol_msol"
+      "website": "https://app.saber.so/pools/csol_cmsol"
     }
   },
   {
@@ -1357,7 +1357,7 @@
       "saber-lp-solend"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/solend_usdc_usdt"
+      "website": "https://app.saber.so/pools/cusdc_cusdt"
     }
   },
   {
@@ -1371,7 +1371,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/socean"
+      "website": "https://app.saber.so/pools/scnsol_sol"
     }
   },
   {
@@ -1413,7 +1413,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/scn_jsol"
+      "website": "https://app.saber.so/pools/scnsol_jsol"
     }
   },
   {
@@ -1446,7 +1446,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/weusdc"
+      "website": "https://app.saber.so/pools/usdcet_usdc"
     }
   },
   {
@@ -1461,7 +1461,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wusdk"
+      "website": "https://app.saber.so/pools/usdk_susdc-8"
     }
   },
   {
@@ -1476,12 +1476,12 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/weusdt"
+      "website": "https://app.saber.so/pools/usdtet_usdt"
     }
   },
   {
-    "symbol": "wUSTv1-USDC",
-    "name": "Saber wUST_v1-USDC LP",
+    "symbol": "USDC-wUSTv1",
+    "name": "Saber USDC-wUST_v1 LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc/icon.png",
     "decimals": 9,
     "address": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
@@ -1491,7 +1491,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/ust"
+      "website": "https://app.saber.so/pools/susdc-9_wust_v1"
     }
   },
   {
@@ -1552,7 +1552,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wust"
+      "website": "https://app.saber.so/pools/ust_usdc"
     }
   },
   {
@@ -1566,7 +1566,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/solust"
+      "website": "https://app.saber.so/pools/solust_ust"
     }
   },
   {
@@ -1594,7 +1594,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/uxd"
+      "website": "https://app.saber.so/pools/uxd_usdc"
     }
   },
   {
@@ -1624,7 +1624,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wpusdt"
+      "website": "https://app.saber.so/pools/usdtpo_usdt"
     }
   },
   {
@@ -1639,7 +1639,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wsrm"
+      "website": "https://app.saber.so/pools/srmet_srm"
     }
   },
   {
@@ -1654,7 +1654,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wibbtc"
+      "website": "https://app.saber.so/pools/wibbtc_renbtc"
     }
   },
   {
@@ -1669,7 +1669,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/whbtc"
+      "website": "https://app.saber.so/pools/hbtc_renbtc"
     }
   },
   {
@@ -1684,7 +1684,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wbusdt"
+      "website": "https://app.saber.so/pools/usdtbs_susdt-8"
     }
   },
   {
@@ -1699,7 +1699,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/frax_ust"
+      "website": "https://app.saber.so/pools/frax_sust-8"
     }
   },
   {
@@ -1715,7 +1715,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/aceur_ageur"
+      "website": "https://app.saber.so/pools/aceur_sageur-9"
     }
   },
   {
@@ -1730,7 +1730,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wbusd"
+      "website": "https://app.saber.so/pools/busdbs_susdc-8"
     }
   },
   {
@@ -1745,7 +1745,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/sollet_ftt"
+      "website": "https://app.saber.so/pools/ssoftt-8_ftt"
     }
   },
   {
@@ -1760,7 +1760,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wbusdc"
+      "website": "https://app.saber.so/pools/usdcbs_susdc-8"
     }
   },
   {
@@ -1775,7 +1775,7 @@
       "saber-lp-cashio"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/frax_cash"
+      "website": "https://app.saber.so/pools/frax_scash-8"
     }
   },
   {
@@ -1790,7 +1790,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wpusdc"
+      "website": "https://app.saber.so/pools/usdcpo_usdc"
     }
   },
   {
@@ -1805,7 +1805,7 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/wheth"
+      "website": "https://app.saber.so/pools/ssoeth-8_eth"
     }
   },
   {
@@ -1820,7 +1820,7 @@
       "saber-lp-synthetify"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/xusd"
+      "website": "https://app.saber.so/pools/xusd_usdc"
     }
   },
   {
@@ -1835,7 +1835,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/aedai"
+      "website": "https://app.saber.so/pools/aedai_susdc-9"
     }
   },
   {
@@ -1850,7 +1850,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/aeusdt"
+      "website": "https://app.saber.so/pools/aeusdt_susdt-9"
     }
   },
   {
@@ -1865,7 +1865,7 @@
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/acusd"
+      "website": "https://app.saber.so/pools/acusd_susdc-9"
     }
   },
   {
@@ -1879,12 +1879,12 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/monkedao"
+      "website": "https://app.saber.so/pools/daosol_sol"
     }
   },
   {
-    "symbol": "pBTC-renBTC",
-    "name": "Saber pBTC-renBTC LP",
+    "symbol": "renBTC-pBTC",
+    "name": "Saber renBTC-pBTC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x/icon.png",
     "decimals": 8,
     "address": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x",
@@ -1893,7 +1893,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/pbtc"
+      "website": "https://app.saber.so/pools/renbtc_pbtc"
     }
   },
   {
@@ -1907,7 +1907,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/jsol"
+      "website": "https://app.saber.so/pools/jsol_sol"
     }
   },
   {
@@ -1921,7 +1921,7 @@
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/stsol"
+      "website": "https://app.saber.so/pools/stsol_sol"
     }
   },
   {
@@ -1936,7 +1936,7 @@
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/usdk"
+      "website": "https://app.saber.so/pools/wusdk_v1_susdc-9"
     }
   },
   {
@@ -1951,7 +1951,7 @@
       "saber-lp-synthetify"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/xbtc"
+      "website": "https://app.saber.so/pools/xbtc_srenbtc-10"
     }
   },
   {
@@ -1966,7 +1966,7 @@
       "saber-lp-synthetify"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/xeth"
+      "website": "https://app.saber.so/pools/xeth_seth-9"
     }
   },
   {
@@ -1981,7 +1981,7 @@
       "saber-lp-synthetify"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/xftt"
+      "website": "https://app.saber.so/pools/xftt_ftt"
     }
   },
   {
@@ -1996,7 +1996,7 @@
       "saber-lp-synthetify"
     ],
     "extensions": {
-      "website": "https://app.saber.so/pools/xsol"
+      "website": "https://app.saber.so/pools/xsol_sol"
     }
   }
 ]
