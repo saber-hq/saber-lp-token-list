@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-05-20T00:11:57.946Z",
+  "timestamp": "2022-05-20T17:15:44.203Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -714,6 +714,25 @@
         "underlyingTokens": [
           "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
           "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "USDC-fUSD",
+      "name": "Saber USDC-fUSD LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP/icon.png",
+      "decimals": 8,
+      "address": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/fabric_usd",
+        "underlyingTokens": [
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee"
         ],
         "source": "saber"
       }
@@ -1501,6 +1520,25 @@
         "underlyingTokens": [
           "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "USH-USDC",
+      "name": "Saber USH-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi/icon.png",
+      "decimals": 9,
+      "address": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/ush",
+        "underlyingTokens": [
+          "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "source": "saber"
       }

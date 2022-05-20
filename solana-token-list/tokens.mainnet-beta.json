@@ -671,6 +671,20 @@
     }
   },
   {
+    "symbol": "USDC-fUSD",
+    "name": "Saber USDC-fUSD LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP/icon.png",
+    "decimals": 8,
+    "address": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/fabric_usd"
+    }
+  },
+  {
     "name": "Saber Wrapped renBTC (9 decimals)",
     "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
     "decimals": 9,
@@ -1477,6 +1491,20 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/pools/weusdt"
+    }
+  },
+  {
+    "symbol": "USH-USDC",
+    "name": "Saber USH-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi/icon.png",
+    "decimals": 9,
+    "address": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/ush"
     }
   },
   {
