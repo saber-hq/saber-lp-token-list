@@ -506,7 +506,8 @@
       "website": "https://app.saber.so",
       "twitter": "https://twitter.com/CashioApp",
       "medium": "https://medium.com/@cashioapp",
-      "discord": "https://discord.com/invite/GmkRRKJkuh"
+      "discord": "https://discord.com/invite/GmkRRKJkuh",
+      "coingeckoId": "cashio-dollar"
     }
   },
   {
@@ -539,7 +540,8 @@
       "website": "https://app.saber.so",
       "twitter": "https://twitter.com/CashioApp",
       "medium": "https://medium.com/@cashioapp",
-      "discord": "https://discord.com/invite/GmkRRKJkuh"
+      "discord": "https://discord.com/invite/GmkRRKJkuh",
+      "coingeckoId": "cashio-dollar"
     }
   },
   {
@@ -1029,7 +1031,8 @@
     ],
     "extensions": {
       "website": "https://app.saber.so",
-      "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT"
+      "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+      "coingeckoId": "terra-luna"
     }
   },
   {

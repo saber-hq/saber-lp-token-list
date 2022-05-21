@@ -11,6 +11,7 @@
       "saber-dec-wrapped"
     ],
     "extensions": {
+      "coingeckoId": "wrapped-bitcoin",
       "website": "https://app.saber.so"
     }
   },
