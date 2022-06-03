@@ -414,6 +414,20 @@
     }
   },
   {
+    "symbol": "SOL-bSOL",
+    "name": "Saber SOL-bSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv/icon.png",
+    "decimals": 9,
+    "address": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/blazesol"
+    }
+  },
+  {
     "symbol": "wibBTCV1-renBTC",
     "name": "Saber wibBTC_V1-renBTC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT/icon.png",
@@ -842,6 +856,20 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/pools/wftt"
+    }
+  },
+  {
+    "symbol": "USDC-SECRET",
+    "name": "Saber USDC-SECRET LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ/icon.png",
+    "decimals": 6,
+    "address": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/usdc_secret"
     }
   },
   {

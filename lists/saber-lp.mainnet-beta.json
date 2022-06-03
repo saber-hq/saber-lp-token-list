@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-06-03T00:11:17.492Z",
+  "timestamp": "2022-06-03T23:32:59.668Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -482,6 +482,25 @@
       }
     },
     {
+      "symbol": "SOL-bSOL",
+      "name": "Saber SOL-bSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv/icon.png",
+      "decimals": 9,
+      "address": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/blazesol",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "symbol": "wibBTCV1-renBTC",
       "name": "Saber wibBTC_V1-renBTC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT/icon.png",
@@ -832,6 +851,25 @@
         "underlyingTokens": [
           "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
           "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "USDC-SECRET",
+      "name": "Saber USDC-SECRET LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ/icon.png",
+      "decimals": 6,
+      "address": "FUDpBiyRjvh2igGk6xH3UDeBuZC8k6jtJGMLvuh8n7gJ",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/usdc_secret",
+        "underlyingTokens": [
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv"
         ],
         "source": "saber"
       }

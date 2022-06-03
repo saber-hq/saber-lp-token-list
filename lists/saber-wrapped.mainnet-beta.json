@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-06-03T00:11:19.041Z",
+  "timestamp": "2022-06-03T23:33:01.211Z",
   "tokens": [
     {
       "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -116,8 +116,8 @@
         "medium": "https://medium.com/@cashioapp",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "coingeckoId": "cashio-dollar",
-        "currency": "USD",
         "source": "cashio",
+        "currency": "USD",
         "sourceUrl": "https://cashio.app/",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -142,8 +142,8 @@
         "medium": "https://medium.com/@cashioapp",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "coingeckoId": "cashio-dollar",
-        "currency": "USD",
         "source": "cashio",
+        "currency": "USD",
         "sourceUrl": "https://cashio.app/",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -354,10 +354,10 @@
       "extensions": {
         "website": "https://app.saber.so",
         "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+        "coingeckoId": "terra-luna",
         "source": "renbridge",
         "currency": "LUNA",
         "sourceUrl": "https://bridge.renproject.io/mint",
-        "coingeckoId": "terra-luna",
         "underlyingTokens": [
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
         ]
