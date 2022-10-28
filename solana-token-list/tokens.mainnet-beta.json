@@ -505,6 +505,20 @@
     }
   },
   {
+    "symbol": "CUSD-USDC",
+    "name": "Saber CUSD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v/icon.png",
+    "decimals": 6,
+    "address": "C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/c98usd"
+    }
+  },
+  {
     "name": "Saber Wrapped Cashio Dollar (9 decimals)",
     "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
     "decimals": 9,
@@ -1491,6 +1505,20 @@
       "website": "https://app.saber.so",
       "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
       "coingeckoId": "tether"
+    }
+  },
+  {
+    "symbol": "USDH-USDCet",
+    "name": "Saber USDH-USDCet LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1/icon.png",
+    "decimals": 6,
+    "address": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/usdcet_usdh"
     }
   },
   {
