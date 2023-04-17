@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2023-04-17T00:13:07.967Z",
+  "timestamp": "2023-04-17T03:33:44.520Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -2269,6 +2269,25 @@
         "underlyingTokens": [
           "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
           "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "SOL-zSOL",
+      "name": "Saber SOL-zSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W/icon.png",
+      "decimals": 9,
+      "address": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/zsol",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA"
         ],
         "source": "saber"
       }
