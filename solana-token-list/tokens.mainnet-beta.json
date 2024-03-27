@@ -1728,8 +1728,8 @@
     }
   },
   {
-    "symbol": "SOL-vSoLx",
-    "name": "Saber SOL-vSoLx LP",
+    "symbol": "SOL-vSOL",
+    "name": "Saber SOL-vSOL LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx/icon.png",
     "decimals": 9,
     "address": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
