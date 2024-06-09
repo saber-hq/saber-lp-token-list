@@ -1020,6 +1020,20 @@
     }
   },
   {
+    "symbol": "EUROe-EURC",
+    "name": "Saber EUROe-EURC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq/icon.png",
+    "decimals": 6,
+    "address": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/euroe_eurc"
+    }
+  },
+  {
     "name": "Saber Wrapped USD Coin (9 decimals)",
     "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
     "decimals": 9,
