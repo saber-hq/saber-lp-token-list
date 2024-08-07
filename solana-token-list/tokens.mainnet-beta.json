@@ -28,6 +28,20 @@
     }
   },
   {
+    "symbol": "cgntSOL-jitoSOL",
+    "name": "Saber cgntSOL-jitoSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6uda2yUDpEHUudCAxRy5mukRFSiiHxrBg9nN8GETk66x/icon.png",
+    "decimals": 9,
+    "address": "6uda2yUDpEHUudCAxRy5mukRFSiiHxrBg9nN8GETk66x",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/cgntsol_jitosol"
+    }
+  },
+  {
     "name": "Saber Wrapped USD Coin (8 decimals)",
     "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
     "decimals": 8,
@@ -662,6 +676,48 @@
     }
   },
   {
+    "symbol": "lanternSOL-jupSOL",
+    "name": "Saber lanternSOL-jupSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dnsi7JaXXiohSsw4mPjbSoc1L9FyYmBnkw8gdnJZzKpY/icon.png",
+    "decimals": 9,
+    "address": "Dnsi7JaXXiohSsw4mPjbSoc1L9FyYmBnkw8gdnJZzKpY",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/lntrnsol_jupsol"
+    }
+  },
+  {
+    "symbol": "jupSOL-vSOL",
+    "name": "Saber jupSOL-vSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E3qo5YUXub3qFqoguhBPPzWxnvGagDa4vvua21xHCQYU/icon.png",
+    "decimals": 9,
+    "address": "E3qo5YUXub3qFqoguhBPPzWxnvGagDa4vvua21xHCQYU",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/vsol_jupsol"
+    }
+  },
+  {
+    "symbol": "jupSOL-picoSOL",
+    "name": "Saber jupSOL-picoSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPtVHqDnDDtG7SuREPtTMcwBJjzz7eCfr1g4DqGub74v/icon.png",
+    "decimals": 9,
+    "address": "EPtVHqDnDDtG7SuREPtTMcwBJjzz7eCfr1g4DqGub74v",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/picosol_jupsol"
+    }
+  },
+  {
     "symbol": "eSOL-SOL",
     "name": "Saber eSOL-SOL LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau/icon.png",
@@ -887,6 +943,20 @@
     }
   },
   {
+    "symbol": "bSOL-vSOL",
+    "name": "Saber bSOL-vSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d/icon.png",
+    "decimals": 9,
+    "address": "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/bsol_vsol"
+    }
+  },
+  {
     "symbol": "USDC-acUSDC",
     "name": "Saber USDC-acUSDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC/icon.png",
@@ -1017,6 +1087,20 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/pools/usdh_ust"
+    }
+  },
+  {
+    "symbol": "bonkSOL-jupSOL",
+    "name": "Saber bonkSOL-jupSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HnrhvF3afyzepJCMUaLChzfZrq6aPLKuEoXmMNHYr1MW/icon.png",
+    "decimals": 9,
+    "address": "HnrhvF3afyzepJCMUaLChzfZrq6aPLKuEoXmMNHYr1MW",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/bonksol_jupsol"
     }
   },
   {
@@ -2080,6 +2164,20 @@
     ],
     "extensions": {
       "website": "https://app.saber.so/pools/usdk"
+    }
+  },
+  {
+    "symbol": "jupSOL-hubSOL",
+    "name": "Saber jupSOL-hubSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz/icon.png",
+    "decimals": 9,
+    "address": "uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/hubsol_jupsol"
     }
   },
   {

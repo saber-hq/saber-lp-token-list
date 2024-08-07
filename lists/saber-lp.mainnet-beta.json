@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2024-06-09T15:13:46.449Z",
+  "timestamp": "2024-08-07T09:12:22.752Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -38,6 +38,25 @@
         "underlyingTokens": [
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "cgntSOL-jitoSOL",
+      "name": "Saber cgntSOL-jitoSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/6uda2yUDpEHUudCAxRy5mukRFSiiHxrBg9nN8GETk66x/icon.png",
+      "decimals": 9,
+      "address": "6uda2yUDpEHUudCAxRy5mukRFSiiHxrBg9nN8GETk66x",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/cgntsol_jitosol",
+        "underlyingTokens": [
+          "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+          "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
         ],
         "source": "saber"
       }
@@ -738,6 +757,63 @@
       }
     },
     {
+      "symbol": "lanternSOL-jupSOL",
+      "name": "Saber lanternSOL-jupSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/Dnsi7JaXXiohSsw4mPjbSoc1L9FyYmBnkw8gdnJZzKpY/icon.png",
+      "decimals": 9,
+      "address": "Dnsi7JaXXiohSsw4mPjbSoc1L9FyYmBnkw8gdnJZzKpY",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/lntrnsol_jupsol",
+        "underlyingTokens": [
+          "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "jupSOL-vSOL",
+      "name": "Saber jupSOL-vSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/E3qo5YUXub3qFqoguhBPPzWxnvGagDa4vvua21xHCQYU/icon.png",
+      "decimals": 9,
+      "address": "E3qo5YUXub3qFqoguhBPPzWxnvGagDa4vvua21xHCQYU",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/vsol_jupsol",
+        "underlyingTokens": [
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "jupSOL-picoSOL",
+      "name": "Saber jupSOL-picoSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/EPtVHqDnDDtG7SuREPtTMcwBJjzz7eCfr1g4DqGub74v/icon.png",
+      "decimals": 9,
+      "address": "EPtVHqDnDDtG7SuREPtTMcwBJjzz7eCfr1g4DqGub74v",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/picosol_jupsol",
+        "underlyingTokens": [
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+          "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "symbol": "eSOL-SOL",
       "name": "Saber eSOL-SOL LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau/icon.png",
@@ -889,6 +965,25 @@
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
           "Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "bSOL-vSOL",
+      "name": "Saber bSOL-vSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d/icon.png",
+      "decimals": 9,
+      "address": "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/bsol_vsol",
+        "underlyingTokens": [
+          "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
         ],
         "source": "saber"
       }
@@ -1067,6 +1162,25 @@
         "underlyingTokens": [
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "bonkSOL-jupSOL",
+      "name": "Saber bonkSOL-jupSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HnrhvF3afyzepJCMUaLChzfZrq6aPLKuEoXmMNHYr1MW/icon.png",
+      "decimals": 9,
+      "address": "HnrhvF3afyzepJCMUaLChzfZrq6aPLKuEoXmMNHYr1MW",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/bonksol_jupsol",
+        "underlyingTokens": [
+          "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
         ],
         "source": "saber"
       }
@@ -2246,6 +2360,25 @@
         "underlyingTokens": [
           "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "jupSOL-hubSOL",
+      "name": "Saber jupSOL-hubSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz/icon.png",
+      "decimals": 9,
+      "address": "uitHwGt7Z7ZHbrxNZoTxcufWvEMSUK4LcirXsecffMz",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/hubsol_jupsol",
+        "underlyingTokens": [
+          "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+          "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX"
         ],
         "source": "saber"
       }
