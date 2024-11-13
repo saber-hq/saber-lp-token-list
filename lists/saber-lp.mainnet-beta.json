@@ -2,7 +2,7 @@
   "name": "Saber LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2024-09-26T11:36:48.520Z",
+  "timestamp": "2024-11-13T15:32:22.490Z",
   "tokens": [
     {
       "symbol": "USDT-USDC",
@@ -38,6 +38,25 @@
         "underlyingTokens": [
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "strongSOL-vSOL",
+      "name": "Saber strongSOL-vSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd/icon.png",
+      "decimals": 9,
+      "address": "4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/strongsol_vsol",
+        "underlyingTokens": [
+          "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
         ],
         "source": "saber"
       }
@@ -481,6 +500,25 @@
       }
     },
     {
+      "symbol": "cbBTC-WBTC",
+      "name": "Saber cbBTC-WBTC LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH/icon.png",
+      "decimals": 8,
+      "address": "AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/wbtc_cbbtc",
+        "underlyingTokens": [
+          "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+          "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "symbol": "wibBTCV1-BTC",
       "name": "Saber wibBTC_V1-BTC LP",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BADGsQo6rTxKZuqkY1kSoqhriQwZW3ZVgyPjgDk9mvyo/icon.png",
@@ -809,6 +847,25 @@
         "underlyingTokens": [
           "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
           "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "soulSOL-vSOL",
+      "name": "Saber soulSOL-vSOL LP",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J/icon.png",
+      "decimals": 9,
+      "address": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/soulsol_vsol",
+        "underlyingTokens": [
+          "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
         ],
         "source": "saber"
       }
