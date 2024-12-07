@@ -74,6 +74,20 @@
     }
   },
   {
+    "symbol": "vSOL-pawSOL",
+    "name": "Saber vSOL-pawSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8UWsuGPNwmcSdBECWGUtEs29fCE8KAtUxf6nuvdTyymX/icon.png",
+    "decimals": 9,
+    "address": "8UWsuGPNwmcSdBECWGUtEs29fCE8KAtUxf6nuvdTyymX",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/pawsol_vsol"
+    }
+  },
+  {
     "name": "Saber Wrapped Bitcoin (Sollet) (9 decimals)",
     "address": "9999j2A8sXUtHtDoQdk528oVzhaKBsXyRGZ67FKGoi7H",
     "decimals": 9,
